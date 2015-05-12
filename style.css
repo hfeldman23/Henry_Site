@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+h1{
+  color:black;
+  font-family: "Lobster"
+}
+
+img{
+  width: 20%
+}
+
+h2{
+  font-size: 25px
+}
+body{
+  background-color: #FFFFCC
+}
